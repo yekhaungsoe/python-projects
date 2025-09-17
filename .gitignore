@@ -1,0 +1,16 @@
+# Ignore all PNG images
+*.png
+
+# Ignore all audio files
+*.mp3
+*.wav
+*.ogg
+
+# Ignore OS/editor junk
+Thumbs.db
+.DS_Store
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.pyc
